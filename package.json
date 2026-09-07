@@ -1,0 +1,24 @@
+{
+  "name": "fantasy-commissioner-ai",
+  "version": "1.0.0",
+  "description": "Fantasy Commissioner AI is an early-stage project designed to help fantasy football commissioners automate the work of running and entertaining their leagues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alo0824/fantasy-commissioner-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alo0824/fantasy-commissioner-ai/issues"
+  },
+  "homepage": "https://github.com/alo0824/fantasy-commissioner-ai#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
